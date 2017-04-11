@@ -6,7 +6,7 @@ import java.util.List;
 /**
  * @author: zhoupengwei
  * @time: 2017/1/19-下午4:58
- * @Email: zhoupengwei@qccr.com
+ * @Email: 496946423@qq.com
  * @desc:
  */
 public class ForegroundChangeDispatcher {

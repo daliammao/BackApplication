@@ -11,7 +11,7 @@ import java.util.List;
 /**
  * @author: zhoupengwei
  * @time: 2017/1/19-下午3:40
- * @Email: zhoupengwei@qccr.com
+ * @Email: 496946423@qq.com
  * @desc:
  */
 public class BaseApplication extends Application {

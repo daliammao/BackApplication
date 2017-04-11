@@ -3,7 +3,7 @@ package com.zpw.backapplication;
 /**
  * @author: zhoupengwei
  * @time: 2017/1/19-下午4:51
- * @Email: zhoupengwei@qccr.com
+ * @Email: 496946423@qq.com
  * @desc: 前后台切换监听
  */
 public interface ForegroundChangeListener {
